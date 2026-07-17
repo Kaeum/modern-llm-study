@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.pyc
+.idea/
+.vscode/
+data/*.parquet
+data/*.csv
+!data/.gitkeep

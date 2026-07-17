@@ -1,0 +1,8 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+python-dotenv
+openai
+anthropic
+tiktoken
