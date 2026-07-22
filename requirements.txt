@@ -5,4 +5,5 @@ matplotlib
 python-dotenv
 openai
 anthropic
+tokenizers
 tiktoken
