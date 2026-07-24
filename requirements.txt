@@ -7,3 +7,6 @@ openai
 anthropic
 tokenizers
 tiktoken
+torch
+datasets
+scikit-learn
